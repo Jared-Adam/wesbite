@@ -1,21 +1,14 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
+    "objectID": "index.html",
+    "href": "index.html",
     "title": "Jared Adam",
     "section": "",
     "text": "Github\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     Email"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "wesbite",
-    "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "about.html#about-me",
-    "href": "about.html#about-me",
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
     "title": "Jared Adam",
     "section": "About Me",
     "text": "About Me\nAt present, my master’s thesis is broadly focused on Integrated Pest Management within conventional row crops. Some of my current research interests and directions include, but are not limited to, studying the influences true spiders have in the realm of biological control in conventional row crops as well as assessing agroecosystem quality using microarthropods as biological indicators. The most notable project I currently work on is called the Common Experiment 2 (CE2) which is presently funded by a Precision Sustainable Agriculture grant through the USDA. The focus of this project is pest management of insects, weeds, and disease within conventional corn production and includes 17 collaborating Universities spanning the Eastern to Midwestern US from Texas to Vermont. Within this project, my responsibilities include, but are not limited to, serving as the immediate contact for protocol/ entomology-based questions, managing the data flow and analyses for all entomology-related data from all collaborators, and working with the other project leads on the synthesis of each respective discipline."

@@ -7,8 +7,8 @@ website:
     background: "#DF536B"
     pinned: true 
     left:
-      #- href: index.qmd
-        #text: Home
+      - href: about.qmd
+        text: Home
       - text: "CV"
         href: Jared.Adam.CV.pdf
     right: 
@@ -18,11 +18,11 @@ website:
         href: https://www.linkedin.com/in/jared-adam-24b107241/
 format:
   html:
-    theme: cosmo
-      light: [cosmo, format/_fonts.scss, format/_light.scss, format/_button.scss]
-      dark: [cosmo, format/_fonts.scss, format/_dark.scss, format/_button.scss]
-    css: styles.css
-    toc: true
+   theme: cosmo
+      #light: [cosmo, format/_fonts.scss, format/_light.scss, format/_button.scss]
+      #dark: [cosmo, format/_fonts.scss, format/_dark.scss, format/_button.scss]
+    #css: styles.css
+    #toc: true
 
 
 
