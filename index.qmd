@@ -23,4 +23,36 @@ about:
 
 ## About Me
 
-At present, my master's thesis is broadly focused on Integrated Pest Management within conventional row crops. Some of my current research interests and directions include, but are not limited to, studying the influences true spiders have in the realm of biological control in conventional row crops as well as assessing agroecosystem quality using microarthropods as biological indicators. The most notable project I currently work on is called the Common Experiment 2 ([CE2](https://sites.google.com/ncsu.edu/psateamportal/teams/ce2)) which is presently funded by a Precision Sustainable Agriculture grant through the USDA. The focus of this project is pest management of insects, weeds, and disease within conventional corn production and includes 17 collaborating Universities spanning the Eastern to Midwestern US from Texas to Vermont. Within this project, my responsibilities include, but are not limited to, serving as the immediate contact for protocol/ entomology-based questions, managing the data flow and analyses for all entomology-related data from all collaborators, and working with the other project leads on the synthesis of each respective discipline.  
+At present, my master's thesis is broadly focused on Integrated Pest Management within conventional row crops. Some of my current research interests and directions include, but are not limited to, studying the influences true spiders have in the realm of biological control in conventional row crops as well as assessing agroecosystem quality using microarthropods as biological indicators. The most notable project I currently work on is called the Common Experiment 2 ([CE2](https://sites.google.com/ncsu.edu/psateamportal/teams/ce2)) which is presently funded by a Precision Sustainable Agriculture grant through the USDA. The focus of this project is pest management of insects, weeds, and disease within conventional corn production and includes 16 collaborating Universities spanning the Eastern to Midwestern US from Texas to Vermont. Within this project, my responsibilities include, but are not limited to, serving as the immediate contact for protocol/ entomology-based questions, managing the data flow and analyses for all entomology-related data from all collaborators, and working with the other project leads on the synthesis of each respective discipline. 
+
+
+## Education 
+
+**MSc Entomology**, 2022-Present - *The Pennsylvania State University*
+
+**BS Agroecology**, 2015-2019 - *The Pennsylvania State University* 
+
+
+## Research Experience 
+
+
+## Teaching Experience 
+
+<div class="box">
+**TA for a graduate-level applied biostatistics course in the R programming language**, Fall 2023
+
+  - Lead lectures on statistical methods
+  - Ran live-coding sessions on topics from lecture
+  - Was the immediate contact for students
+  
+**TA for an undergraduate-level introduction to agronomic pests of Pennsylvania course**, Spring 2023
+
+  - Created lab materials and quizzes
+  - Lectured on Fall Armyworm in Pennsylvania 
+
+**Guest lecture for undergraduate-level introduction to agronomy course**, Fall 2022 and 2023
+
+  - Lectured on insect-pests in Pennsylvania 
+  - Developed lab with the Frost Entomological Museum for hands-on exposure to insects 
+</div>
+

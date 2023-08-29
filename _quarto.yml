@@ -16,6 +16,8 @@ website:
         href: https://github.com/Jared-Adam-PSU
       - icon: linkedin
         href: https://www.linkedin.com/in/jared-adam-24b107241/
+  page-footer:
+      "Copyright 2023, Jared Adam. Made with[Quarto](https://quarto.org)"
 format:
   html:
    theme: cosmo
