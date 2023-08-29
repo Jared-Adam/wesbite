@@ -1,0 +1,26 @@
+---
+title: "Jared Adam"
+about:
+  template: jolla
+  image: "jared.headshot.jpg"
+  id: "blank"
+  links: 
+    - icon: github
+      text: Github
+      href: https://github.com/Jared-Adam-PSU
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/jared-adam-24b107241/
+    - icon: envelope-fill
+      text: Email
+      url: "mailto:jsadam0809@gmail.com"
+      
+---
+::: {#blank}
+
+
+:::
+
+## About Me
+
+At present, my master's thesis is broadly focused on Integrated Pest Management within conventional row crops. Some of my current research interests and directions include, but are not limited to, studying the influences true spiders have in the realm of biological control in conventional row crops as well as assessing agroecosystem quality using microarthropods as biological indicators. The most notable project I currently work on is called the Common Experiment 2 ([CE2](https://sites.google.com/ncsu.edu/psateamportal/teams/ce2)) which is presently funded by a Precision Sustainable Agriculture grant through the USDA. The focus of this project is pest management of insects, weeds, and disease within conventional corn production and includes 17 collaborating Universities spanning the Eastern to Midwestern US from Texas to Vermont. Within this project, my responsibilities include, but are not limited to, serving as the immediate contact for protocol/ entomology-based questions, managing the data flow and analyses for all entomology-related data from all collaborators, and working with the other project leads on the synthesis of each respective discipline.  
