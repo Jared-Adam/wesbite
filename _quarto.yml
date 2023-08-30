@@ -4,7 +4,7 @@ project:
 website:
   title: "Jared Adam"
   navbar:
-    background: "#DF536B"
+    background: "#d8bfd8"
     pinned: true 
     left:
       - href: about.qmd

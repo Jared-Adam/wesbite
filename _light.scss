@@ -5,25 +5,18 @@
 // Project button class
 
 // Navbar
-$navbar-color: #DF536B !default;
+$navbar-color: #DF536B !default; //go to default if this breaks 
 $navbar-padding-y: 1.5rem !default;
 
 // Link colors
-$box-bg-color:  #cdd6f4 !default;
+$box-bg-color:  whitesmoke !default;
 $box-border-color: lightgray !default;
-$hover-color: darkblue !default;
-$link-color: #DF536B !default;
-
-
-
-
-
-
-
+$hover-color: lightslategray !default;
+$link-color:  steelblue !default;
 
 /*-- scss:rules: --*/
 
-// making objects 
+// making objects, like a box with specified colors 
 
 .box {
     background: $box-bg-color;
@@ -36,17 +29,12 @@ $link-color: #DF536B !default;
     margin-bottom: 10px;
 }
 
+// hijacked this code for navbar width 
 
 .navbar > .container-xxl, .navbar > .container-xl, .navbar > .container-lg, .navbar > .container-md, .navbar > .container-sm, .navbar > .container, .navbar > .container-fluid {
   max-width: 1400px;
   margin: 0 auto;
 }
-
-
-
-
-
-
 
 // Overwrite TOC link underlining
 .sidebar nav[role=doc-toc]>ul li a:after {
@@ -57,7 +45,7 @@ $link-color: #DF536B !default;
 
 .navbar-brand, .navbar-nav li.nav-item a.nav-link {
     height: inherit;
-    line-height: 30px !important;
+    line-height: 30px !important; // override default 
     padding-top: 7px !important;
     padding-bottom: 5px !important;
 }

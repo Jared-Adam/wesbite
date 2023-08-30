@@ -2,8 +2,8 @@
 title: "Jared Adam"
 about:
   template: jolla
-  image: "jared.headshot.jpg"
-  id: "blank"
+  image: "jared.headshot.jpg" 
+  id: "blank" 
   links: 
     - icon: github
       text: Github
@@ -24,7 +24,7 @@ about:
 
 ## About Me
 
-At present, my master's thesis is broadly focused on Integrated Pest Management within conventional row crops. Some of my current research interests and directions include, but are not limited to, studying the influences true spiders have in the realm of biological control in conventional row crops as well as assessing agroecosystem quality using microarthropods as biological indicators. The most notable project I currently work on is called the Common Experiment 2 ([CE2](https://sites.google.com/ncsu.edu/psateamportal/teams/ce2)) which is presently funded by a Precision Sustainable Agriculture grant through the USDA. The focus of this project is pest management of insects, weeds, and disease within conventional corn production and includes 16 collaborating Universities spanning the Eastern to Midwestern US from Texas to Vermont. Within this project, my responsibilities include, but are not limited to, serving as the immediate contact for protocol/ entomology-based questions, managing the data flow and analyses for all entomology-related data from all collaborators, and working with the other project leads on the synthesis of each respective discipline. 
+At present, my master's thesis is broadly focused on Integrated Pest Management within conventional row crops. Some of my current research interests and directions include, but are not limited to, studying the influences true spiders have in the realm of biological control in conventional row crops as well as assessing agroecosystem quality using microarthropods as biological indicators. The most notable project I currently work on is called the Common Experiment 2 ([CE2](https://www.precisionsustainableag.org/ce2)) which is presently funded by a Precision Sustainable Agriculture grant through the USDA. The focus of this project is pest management of insects, weeds, and disease within conventional corn production and includes 16 collaborating Universities spanning the Eastern to Midwestern US from Texas to Vermont. Within this project, my responsibilities include, but are not limited to, serving as the immediate contact for protocol/ entomology-based questions, managing the data flow and analyses for all entomology-related data from all collaborators, and working with the other project leads on the synthesis of each respective discipline. 
 
 
 ## Education 
@@ -35,7 +35,32 @@ At present, my master's thesis is broadly focused on Integrated Pest Management 
 
 
 ## Research Experience 
+<div class="box">
+**Penn State Entomology** 2022-Present
 
+- Manage the entomology component of Common Experiment 2 (16 states) of the Precision Sustainable Agriculture Grant 
+  - Responsibilities include protocol troubleshooting, data collection, whole-team data flow and analyses, and fieldwork
+- Augmentation experiment
+  - Working to quantify the role web-building spiders have as biological control agents in conventional soybeans
+- Agroecosystem health
+  - Partnered with the [Rodale Institute](https://rodaleinstitute.org/) 
+  - Using microarthropods as biological indicators to determine the ecosystem quality of different agricultural practices/ land-uses
+      - E.g., legacy no-till vs. till, organic vs. conventional, etc. 
+
+
+**Penn State Weed Science** 2021-2022
+
+- Managed three projects of the Precision Sustainable Agriculture Grant for [Dr. John Wallace](https://plantscience.psu.edu/directory/jmw309) 
+  - Common Experiment 1 ([CE1](https://www.precisionsustainableag.org/ce1)): Nitrogen Cycling
+  - Common Experiment 2 ([CE2](https://www.precisionsustainableag.org/ce2)): Inter-disciplinary pest interactions
+  - On-Farm ([OF](https://www.precisionsustainableag.org/on-farm)): Implementing similar field management practices from CE1 and 2 with Pennsylvania growers 
+
+
+
+**Lehigh Agricultural and Biological Services** 2020-2021
+
+
+</div>
 
 ## Teaching Experience 
 
