@@ -1,0 +1,157 @@
+/*-- scss:defaults --*/
+
+// set constants
+
+// Project button class
+
+// Navbar
+$navbar-color: #DF536B !default;
+$navbar-padding-y: 1.5rem !default;
+
+// Link colors
+$box-bg-color:  #cdd6f4 !default;
+$box-border-color: lightgray !default;
+$hover-color: darkblue !default;
+$link-color: #DF536B !default;
+
+
+
+
+
+
+
+
+/*-- scss:rules: --*/
+
+// making objects 
+
+.box {
+    background: $box-bg-color;
+    border-radius: 5px;
+    padding: 10px; 
+    border: 1px solid $box-border-color;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+
+.navbar > .container-xxl, .navbar > .container-xl, .navbar > .container-lg, .navbar > .container-md, .navbar > .container-sm, .navbar > .container, .navbar > .container-fluid {
+  max-width: 1400px;
+  margin: 0 auto;
+}
+
+
+
+
+
+
+
+// Overwrite TOC link underlining
+.sidebar nav[role=doc-toc]>ul li a:after {
+    transition: none;
+    position: absolute;
+    background-color: transparent; 
+}
+
+.navbar-brand, .navbar-nav li.nav-item a.nav-link {
+    height: inherit;
+    line-height: 30px !important;
+    padding-top: 7px !important;
+    padding-bottom: 5px !important;
+}
+
+// Transition underline nav link
+a.nav-link,
+a.nav-link:after,
+a.nav-link:before {
+  transition: all 0.35s;
+}
+
+// Underline text, not whole navbar
+a.nav-link {
+  position: relative;
+}
+
+a.nav-link:after {
+ // font-family: bold !important; 
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+  width: 0%;
+  content: '.'; /* content required to create underline */
+  color: transparent; /* turn dot transparent*/
+  background: $hover-color;
+  height: 0.3rem;
+}
+
+// Underline should just be width of text
+a.nav-link:hover:after {
+  width: 70%;
+}
+
+// Set navbar default font to bold
+.navbar .navbar-nav .nav-link {
+    font-weight: 700 !important;
+}
+
+.navbar .navbar-nav .nav-link.active {
+    color: $link-color !important;
+}
+
+.navbar-dark .navbar-nav .nav-link:hover {
+    color: $hover-color  !important;
+}
+
+.navbar .navbar-title {
+    font-weight: 700 !important;
+}
+
+.navbar .navbar-title:hover {
+    color: $hover-color  !important;
+}
+
+// Apply hover color and bold to in-text link
+p > a:hover {
+  color: $hover-color;
+  text-decoration: none;
+}
+
+p > a {
+  position: relative;
+  color: $link-color;
+  text-decoration: none;
+}
+
+ul.share li a {
+    background-color: $hover-color;
+}
+
+p > a::before {
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 2px;
+  bottom: 0;
+  left: 0;
+  background-color: $hover-color;
+  visibility: hidden;
+  transform: scaleX(0);
+  transition: all 0.35s;
+}
+
+a {
+  color: $hover-color;
+}
+
+a:hover {
+  color: $hover-color;
+}
+
+p > a:hover::before {
+  visibility: visible;
+  transform: scaleX(1);
+}

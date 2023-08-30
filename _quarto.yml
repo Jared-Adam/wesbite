@@ -20,7 +20,7 @@ website:
       "Copyright 2023, Jared Adam. Made with[Quarto](https://quarto.org)"
 format:
   html:
-   theme: cosmo
+   theme: [cosmo, _light.scss]
       #light: [cosmo, format/_fonts.scss, format/_light.scss, format/_button.scss]
       #dark: [cosmo, format/_fonts.scss, format/_dark.scss, format/_button.scss]
     #css: styles.css
