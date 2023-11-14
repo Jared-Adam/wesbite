@@ -9,8 +9,6 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: projects.qmd
-        text: Projects
       - text: "CV"
         href: Jared.Adam.CV.pdf
     right: 
