@@ -1,14 +1,17 @@
 on:
   workflow_dispatch:
   push:
+    # Run workflow when changes made to main branch on remote e.g., push, pull request, direct change in GH
     branches: main
 
 name: Quarto Publish
 
 jobs:
   build-deploy:
+    # Set up virtual machine on GitHub to run workflow
     runs-on: ubuntu-latest
     permissions:
+      # Need write permissions to generate pages for website
       contents: write
     steps:
       - name: Check out repository
