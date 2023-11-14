@@ -7,7 +7,7 @@ website:
     background: "#d8bfd8"
     pinned: true 
     left:
-      - href: about.qmd
+      - href: index.qmd
         text: Home
       - text: "CV"
         href: Jared.Adam.CV.pdf
