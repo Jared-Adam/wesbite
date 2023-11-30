@@ -11,6 +11,7 @@ website:
         text: Home
       - text: "CV"
         href: Jared.Adam.CV.pdf
+      - text: Teaching Philosophy
     right: 
       - icon: github
         href: https://github.com/Jared-Adam-PSU
