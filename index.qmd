@@ -2,7 +2,7 @@
 title: "Jared Adam"
 about:
   template: jolla
-  image: "jared.headshot.jpg" 
+  image: "climbing_pic.jpg" 
   id: "blank" 
   links: 
     - icon: github
