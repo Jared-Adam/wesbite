@@ -13,6 +13,8 @@ website:
         href: Jared.Adam.CV.pdf
       - text: Teaching Philosophy
         href: teaching.qmd
+      - text: 'Presentation example'
+        href: Eastern.ESA_for website
     right: 
       - icon: github
         href: https://github.com/Jared-Adam-PSU
