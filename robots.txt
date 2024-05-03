@@ -1,1 +1,1 @@
-Sitemap: https://github.com/Jared-Adam-PSU/wesbite/sitemap.xml
+Sitemap: https://Jared-Adam-PSU.github.io/wesbite/sitemap.xml
