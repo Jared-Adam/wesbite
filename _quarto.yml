@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: _site
 
 website:
   title: "Jared Adam"
@@ -15,6 +16,8 @@ website:
         href: teaching.qmd
       - text: 'Presentation example'
         href: files/EasternESA.pdf
+      - text: 'Masters defense recording'
+        href: https://psu.mediaspace.kaltura.com/media/Jared+Adam%27s+Personal+Meeting+Room/1_6c58r3jx
     right: 
       - icon: github
         href: https://github.com/Jared-Adam-PSU
