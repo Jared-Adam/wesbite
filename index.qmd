@@ -7,7 +7,7 @@ about:
   links: 
     - icon: github
       text: Github
-      href: https://github.com/Jared-Adam-PSU
+      href: https://github.com/Jared-Adam
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/jared-adam-24b107241/
@@ -24,19 +24,23 @@ about:
 
 ## About Me
 
-At present, my master's thesis is broadly focused on Integrated Pest Management within conventional row crops. Some of my current research interests and directions include, but are not limited to, studying the influences true spiders have in the realm of biological control in conventional row crops as well as assessing agroecosystem quality using microarthropods as biological indicators. The most notable project I currently work on is called the Common Experiment 2 ([CE2](https://www.precisionsustainableag.org/ce2)) which is presently funded by a Precision Sustainable Agriculture grant through the USDA. The focus of this project is pest management of insects, weeds, and disease within conventional corn production and includes 16 collaborating Universities spanning the Eastern to Midwestern US from Texas to Vermont. Within this project, my responsibilities include, but are not limited to, serving as the immediate contact for protocol/ entomology-based questions, managing the data flow and analyses for all entomology-related data from all collaborators, and working with the other project leads on the synthesis of each respective discipline. 
+At present, I am a PhD student of Dr. Will Wetzel ([Wetzel lab](https://wetzellab.com/)) in the Land Resources and Environmental Sciences program in the College of Agriculture at Montana State University. My interests include tri-tropic interactions (plant-herbivore-predator) and how these populations change with changes in elevation. Additionally, I am interested in how climate change may be driving asynchronous movement of these groups across elevations and how this effects plant, herbivore, and predator fitness. 
+
+My master's thesis with Dr. John Tooker ([Tooker lab](https://ento.psu.edu/research/labs/john-tooker)) broadly focused on Integrated Pest Management within conventional row crops. Please see the link to my defense for more information. The most notable project I am still active on (as of 8/21/2024) is called the Common Experiment 2 ([CE2](https://www.precisionsustainableag.org/ce2)) which is presently funded by a Precision Sustainable Agriculture grant through the USDA. The focus of this project is pest management of insects, weeds, and disease within conventional corn production and includes 16 collaborating Universities spanning the Southern to Midwestern US from Texas to Vermont. Within this project, my responsibilities include, but are not limited to, serving as the immediate contact for protocol/ entomology-based questions, managing the data flow and analyses for all entomology-related data from all collaborators, and working with the other project leads on the synthesis of each respective discipline. 
 
 
 ## Education 
 
-**MSc Entomology**, 2022-Present - *The Pennsylvania State University*
+**PhD Land Resources and Environmental Sciences**, 2024-present - *Montana State University*
+
+**MSc Entomology**, 2022-2024 - *The Pennsylvania State University*
 
 **BS Agroecology**, 2015-2019 - *The Pennsylvania State University* 
 
 
 ## Research Experience 
 <div class="box">
-**Penn State Entomology** 2022-Present
+**Penn State Entomology** 2022-2024
 
 - Manage the entomology component of Common Experiment 2 (16 states) of the Precision Sustainable Agriculture Grant 
   - Responsibilities include protocol troubleshooting, data collection, whole-team data flow and analyses, and fieldwork
